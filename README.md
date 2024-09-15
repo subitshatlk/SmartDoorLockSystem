@@ -14,7 +14,7 @@ Our project deals with the design and implementation of a two-level secure locki
 # SOFTWARE REQUIRED:
 1.	Open CV
 2.	Python IDE
-3.	
+
 # FACE RECOGNITION SYSTEM DESCRIPTION:
 There are few objectives to design the face detection system. The objectives are:
 1. To design real time face detection system. 
